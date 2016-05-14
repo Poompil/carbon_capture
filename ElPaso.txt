@@ -1,0 +1,56 @@
+Average cost of CO2 capture:  -7.3320811998
+Average fraction of cooling required:  0.224657534247
+Average cost of CO2 capture:  -7.3320811998
+Average fraction of cooling required:  0.224657534247
+Average cost of CO2 capture:  -7.33208095803
+Average fraction of cooling required:  0.224657534247
+Average cost of CO2 capture:  -7.33208061481
+Average fraction of cooling required:  0.224657534247
+Average cost of CO2 capture:  -4.59678291253
+Average fraction of cooling required:  0.224657534247
+Average cost of CO2 capture:  -4.59678291253
+Average fraction of cooling required:  0.224657534247
+Average cost of CO2 capture:  -4.59678286407
+Average fraction of cooling required:  0.224657534247
+Average cost of CO2 capture:  -4.59678352177
+Average fraction of cooling required:  0.224657534247
+Average cost of CO2 capture:  -35.1843768685
+Average fraction of cooling required:  0.224657534247
+Average cost of CO2 capture:  -35.1843768685
+Average fraction of cooling required:  0.224657534247
+Average cost of CO2 capture:  -35.1843767268
+Average fraction of cooling required:  0.224657534247
+Average cost of CO2 capture:  -35.1843768815
+Average fraction of cooling required:  0.224657534247
+Average cost of CO2 capture:  -35.2008776389
+Average fraction of cooling required:  0.224657534247
+Average cost of CO2 capture:  -35.2008776389
+Average fraction of cooling required:  0.224657534247
+Average cost of CO2 capture:  -35.2008774951
+Average fraction of cooling required:  0.224657534247
+Average cost of CO2 capture:  -35.2008776407
+Average fraction of cooling required:  0.224657534247
+Average cost of CO2 capture:  -35.2011904649
+Average fraction of cooling required:  0.224657534247
+Average cost of CO2 capture:  -35.2011904649
+Average fraction of cooling required:  0.224657534247
+Average cost of CO2 capture:  -35.2011903208
+Average fraction of cooling required:  0.224657534247
+Average cost of CO2 capture:  -35.2011904649
+Average fraction of cooling required:  0.224657534247
+Average cost of CO2 capture:  -35.2011904677
+Average fraction of cooling required:  0.224657534247
+Average cost of CO2 capture:  -35.2011904677
+Average fraction of cooling required:  0.224657534247
+Average cost of CO2 capture:  -35.2011903236
+Average fraction of cooling required:  0.224657534247
+Average cost of CO2 capture:  -35.2011904677
+Average fraction of cooling required:  0.224657534247
+  status: 0
+ success: True
+    nfev: 24
+     fun: -35.201190467713353
+       x: array([ 5.        ,  2.10199438])
+ message: 'CONVERGENCE: NORM_OF_PROJECTED_GRADIENT_<=_PGTOL'
+     jac: array([  1.44102650e+01,   2.84217094e-06])
+     nit: 4

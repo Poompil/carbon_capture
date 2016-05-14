@@ -1,0 +1,48 @@
+Average cost of CO2 capture:  -69.2360377191
+Average fraction of cooling required:  0.687671232877
+Average cost of CO2 capture:  -69.2360377191
+Average fraction of cooling required:  0.687671232877
+Average cost of CO2 capture:  -69.2360374971
+Average fraction of cooling required:  0.687671232877
+Average cost of CO2 capture:  -69.2360377073
+Average fraction of cooling required:  0.687671232877
+Average cost of CO2 capture:  -50.7398886345
+Average fraction of cooling required:  0.687671232877
+Average cost of CO2 capture:  -50.7398886345
+Average fraction of cooling required:  0.687671232877
+Average cost of CO2 capture:  -50.7398885142
+Average fraction of cooling required:  0.687671232877
+Average cost of CO2 capture:  -50.7398889489
+Average fraction of cooling required:  0.687671232877
+Average cost of CO2 capture:  -69.2589376862
+Average fraction of cooling required:  0.687671232877
+Average cost of CO2 capture:  -69.2589376862
+Average fraction of cooling required:  0.687671232877
+Average cost of CO2 capture:  -69.2589374676
+Average fraction of cooling required:  0.687671232877
+Average cost of CO2 capture:  -69.2589376864
+Average fraction of cooling required:  0.687671232877
+Average cost of CO2 capture:  -69.2589518259
+Average fraction of cooling required:  0.687671232877
+Average cost of CO2 capture:  -69.2589518259
+Average fraction of cooling required:  0.687671232877
+Average cost of CO2 capture:  -69.2589516072
+Average fraction of cooling required:  0.687671232877
+Average cost of CO2 capture:  -69.2589518259
+Average fraction of cooling required:  0.687671232877
+Average cost of CO2 capture:  -69.2589518262
+Average fraction of cooling required:  0.687671232877
+Average cost of CO2 capture:  -69.2589518262
+Average fraction of cooling required:  0.687671232877
+Average cost of CO2 capture:  -69.2589516075
+Average fraction of cooling required:  0.687671232877
+Average cost of CO2 capture:  -69.2589518262
+Average fraction of cooling required:  0.687671232877
+  status: 0
+ success: True
+    nfev: 20
+     fun: -69.258951826185097
+       x: array([ 5.        ,  3.06618752])
+ message: 'CONVERGENCE: NORM_OF_PROJECTED_GRADIENT_<=_PGTOL'
+     jac: array([  2.18676632e+01,   4.26325641e-06])
+     nit: 3
