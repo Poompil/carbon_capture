@@ -12,3 +12,5 @@ Edit inputs into .py file as necessary and run simulation:
 • Ensure Temp_vs_density_air.csv and Temp_vs_heatcapacity.csv exist
 
 • Choose desired optimization method in line 146
+
+Edit 1
